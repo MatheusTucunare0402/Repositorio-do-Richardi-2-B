@@ -1,7 +1,8 @@
 .cabecalho-geral
 {
-    background-image: url(Buraco\ negro\ -\ Espaço\ -\ Universo\ -\ Astrofísica\ -\ History\ Channel\ Brasil\ \(1\).jpg);
-    padding: 10px;
+    background-image: url(https://services.meteored.com/img/article/nao-e-o-que-voce-pensa-qual-e-o-maior-buraco-negro-encontrado-no-universo-1698618767119_1024.png);
+    padding: 8px;
+    image-resolution: 10px;
 
 }
 .titulo-cabecalho
@@ -10,7 +11,7 @@
     color: rgb(159, 0, 252); 
     font-size: 60px; 
     font-family: 
-    display: flex; 
+    display: flex;
     justify-content: space-around;
 }
 .lista-secao
@@ -20,13 +21,13 @@
 }
 .tit-1-secao
 {
-    color: rgb(0, 0, 0);
+    color: blueviolet;
     font-size: 40px; 
     font-family: fantasy;
 }
 .tit-2-secao
 {
-    color: rgb(0, 0, 0); 
+    color: blueviolet; 
     font-size: 40px; 
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',
      Geneva, Verdana, sans-serif;
@@ -44,19 +45,19 @@
 }
 .item-1
 { 
-    color: darkgreen;
+    color: white;
 }
 .item-2
 {
-    color: rgb(255, 0, 0);
+    color: white;
 }
 .item-3
 {
-    color: rgb(0, 38, 255);
+    color: white;
 }
 .item-4
 {
-    color: rgb(228, 253, 1);
+    color: white;
 }
 .item-5
 {
@@ -69,6 +70,7 @@
 .rodape
 {
     background-color: black;
-    padding: 10px;
+    padding: 5px;
     color: white;
+    font-size: 12px;
 }
