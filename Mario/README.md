@@ -1,1 +1,0 @@
-# Repositorio-do-Richardi-2-B
