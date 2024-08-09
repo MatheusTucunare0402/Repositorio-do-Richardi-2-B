@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+
+.cabeçalho{
+    background-color: brown;
+    width: center;
+    height: center;
+    
+
+    
+}
+
+.titulo{
+    font-family: "Platypi", serif;
+    text-align: center ;
+
+    
+}
+
+.novelo1{
+
+   direction: right;
+   position:absolute;
+   margin-left: 100px;
+   margin-top: top ;
+
+
+}
+
+.novelo2{
+ direction: left;
+ position: absolute;
+ margin-left: 100px;
+ margin-top: 200px;
+ size-adjust: ;
+}
